@@ -58,7 +58,8 @@ div {
     background-color: #0000FF;
     text-align: left;
     margin-right: 50px;
-    border-width: 0 5px 0 2px;
+    /* border of 5px on the right and 2px on the top */
+    border-width: 2px 5px 0 0 ;
     /* border-right: 5px;
     border-left: 2px; */
 }
