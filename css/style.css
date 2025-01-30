@@ -2,7 +2,9 @@ body {
     font-family: Arial, Verdana;
     color: #fff;
     background-color: #000;
-    margin-left: 20px 20px 0 20px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
 
 }
 
@@ -19,7 +21,8 @@ h2 {
 
 p {
     font-size: 24px;
-    padding: 10px 0 0 10px;
+    padding-top: 10px;
+    padding-left: 10px;
 }
 
 img {
@@ -60,6 +63,10 @@ div {
 }
 
 .blue h2 {
+    color: #C4C4C4
+}
+
+.blue p {
     color: #C4C4C4
 }
 
